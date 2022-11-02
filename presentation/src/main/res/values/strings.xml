@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hilt Tests</string>
+    <string name="ok">OK</string>
+    <string name="error">Something went wrong! … Please try again later.</string>
+</resources>
