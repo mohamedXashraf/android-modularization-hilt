@@ -1,4 +1,4 @@
-# Simple Android App to test Hilt DI with Modularization.
+# Simple Android App to test Hilt DI with Modularization
 
 - Topics:
   * Modularization.
